@@ -3,6 +3,7 @@
 "envol" ;
 "la-meute" ;
 "esclaves" ;
+"dernier-temple" ; 
 
 "nathan-vs-thanadir" ;
 "nouvelle-thanadir" ;
