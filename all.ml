@@ -2,6 +2,7 @@
 "suicide" ;
 "envol" ;
 "la-meute" ;
+"esclaves" ;
 
 "nathan-vs-thanadir" ;
 "nouvelle-thanadir" ;
