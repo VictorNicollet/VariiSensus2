@@ -7,6 +7,8 @@
 		          cauchemar. *)
 "naufrage" ;           (* Simmera atterrit en rase campagne. *)
 "esclaves" ;           (* Nathan rencontre Orona à Virnalvir. *)
+"ordo-aureus" ;        (* Staniel exécute Akim et nomme Hans Banach à sa 
+			  place. *)
 "dernier-temple" ;     (* Simmera arrive au Dernier Temple. *)
 "triangle" ;           (* Staniel, Julie et Simmera parlent de leurs 
 			  projets. *)
