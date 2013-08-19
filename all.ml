@@ -1,16 +1,15 @@
-"fier-eclaireur" ;
-
-"suicide" ;
-"envol" ;
-"presses" ;
-
-"la-meute" ;
-"esclaves" ;
-
-"dernier-temple" ; 
-
-"triangle" ;
-
-"nathan-vs-thanadir" ;
-"nouvelle-thanadir" ;
-"the-end" ;
+"fier-eclaireur" ;     (* Akim envoie Onterberg et Lucrèce sous la Brume. *)
+"suicide" ;            (* Sébastien convainc Giselle de tuer un membre de 
+			  l'équipage. *)
+"envol" ;              (* Simmera rencontre Giselle à bord du Tyran Boréal. *)
+"presses" ;            (* Saïar parle à Nathan des actions d'Orona à Hayako. *)
+"la-meute" ;           (* Galilée vient se plaindre à Akim des filles du 
+		          cauchemar. *)
+"naufrage" ;           (* Simmera atterrit en rase campagne. *)
+"esclaves" ;           (* Nathan rencontre Orona à Virnalvir. *)
+"dernier-temple" ;     (* Simmera arrive au Dernier Temple. *)
+"triangle" ;           (* Staniel, Julie et Simmera parlent de leurs 
+			  projets. *)
+"nathan-vs-thanadir" ; (* Nathan tue Julie. *)
+"nouvelle-thanadir" ;  (* Simmera devient la nouvelle Thanadir. *)
+"the-end" ;            (* Simmera tue Ildaric et Orona définitivement. *)
