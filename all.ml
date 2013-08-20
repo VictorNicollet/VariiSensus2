@@ -1,4 +1,5 @@
 "fier-eclaireur" ;     (* Akim envoie Onterberg et Lucrèce sous la Brume. *)
+"deuil" ;              (* Alexandre retrouve Isidora chez Najah. *)
 "suicide" ;            (* Sébastien convainc Giselle de tuer un membre de 
 			  l'équipage. *)
 "envol" ;              (* Simmera rencontre Giselle à bord du Tyran Boréal. *)
