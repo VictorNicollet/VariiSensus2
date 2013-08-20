@@ -6,6 +6,8 @@
 "presses" ;            (* Saïar parle à Nathan des actions d'Orona à Hayako. *)
 "la-meute" ;           (* Galilée vient se plaindre à Akim des filles du 
 		          cauchemar. *)
+"transaction" ;        (* Nathan rencontre Masque, lui vend des fusées, 
+			  récupère une commande et une gorgone. *)
 "naufrage" ;           (* Simmera atterrit en rase campagne. *)
 "esclaves" ;           (* Nathan rencontre Orona à Virnalvir. *)
 "ordo-aureus" ;        (* Staniel exécute Akim et nomme Hans Banach à sa 
