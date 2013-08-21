@@ -10,9 +10,7 @@
 			  récupère une commande et une gorgone. *)
 "fusees" ;             (* Le Tyran Boréal est détruit. *)
 "naufrage" ;           (* Simmera atterrit en rase campagne. *)
-
-(* Akim rencontre la meute, parle de Orona. *)
-
+"ambition" ;           (* Akim rencontre Orthys, parle d'Orona. *)
 "esclaves" ;           (* Nathan rencontre Orona à Virnalvir. *)
 "ordo-aureus" ;        (* Staniel exécute Akim et nomme Hans Banach à sa 
 			  place. *)
