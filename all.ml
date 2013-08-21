@@ -19,8 +19,12 @@
 (* Simmera et Lugoj affrontent les esprits. *)
 
 "dernier-temple" ;     (* Simmera arrive au Dernier Temple. *)
+
+(* Une fille du cauchemar sauve Giselle. *)
+
 "triangle" ;           (* Staniel, Julie et Simmera parlent de leurs 
 			  projets. *)
+"lovecraft" ;          (* Les Suidinns attaquent ! *)
 "nathan-vs-thanadir" ; (* Nathan tue Julie. *)
 "nouvelle-thanadir" ;  (* Simmera devient la nouvelle Thanadir. *)
 "the-end" ;            (* Simmera tue Ildaric et Orona définitivement. *)
