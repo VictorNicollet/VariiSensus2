@@ -25,6 +25,7 @@
 "triangle" ;           (* Staniel, Julie et Simmera parlent de leurs 
 			  projets. *)
 "lovecraft" ;          (* Les Suidinns attaquent ! *)
+"relique" ;            (* Nathan tue Maya, parle à Than. *)
 "nathan-vs-thanadir" ; (* Nathan tue Julie. *)
 "nouvelle-thanadir" ;  (* Simmera devient la nouvelle Thanadir. *)
 "the-end" ;            (* Simmera tue Ildaric et Orona définitivement. *)
