@@ -24,7 +24,11 @@
 
 "triangle" ;           (* Staniel, Julie et Simmera parlent de leurs 
 			  projets. *)
+"trahison" ;           (* Carnaval interroge Nathan sur Giselle. *) 
 "lovecraft" ;          (* Les Suidinns attaquent ! *)
+
+(* Simmera et Julie enquêtent à Hédris. *)
+
 "relique" ;            (* Nathan tue Maya, parle à Than. *)
 "nathan-vs-thanadir" ; (* Nathan tue Julie. *)
 "nouvelle-thanadir" ;  (* Simmera devient la nouvelle Thanadir. *)
