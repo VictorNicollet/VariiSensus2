@@ -15,13 +15,11 @@
 "ordo-aureus" ;        (* Staniel exécute Akim et nomme Hans Banach à sa 
 			  place. *)
 "exploration" ;        (* Onterberg et Lucrèce arrivent au fond du monde. *)
-
+	
 (* Simmera et Lugoj affrontent les esprits. *)
 
 "dernier-temple" ;     (* Simmera arrive au Dernier Temple. *)
-
-(* Une fille du cauchemar sauve Giselle. *)
-
+"romance" ;            (* Giselle rencontre Charles et Eusèbe. *)
 "triangle" ;           (* Staniel, Julie et Simmera parlent de leurs 
 			  projets. *)
 "trahison" ;           (* Carnaval interroge Nathan sur Giselle. *) 
