@@ -25,8 +25,10 @@
 "triangle" ;           (* Staniel, Julie et Simmera parlent de leurs 
 			  projets. *)
 "trahison" ;           (* Carnaval interroge Nathan sur Giselle. *) 
+"exorcisme" ;          (* Julie emmène Simmera à Nymett. *)
 "lovecraft" ;          (* Les Suidinns attaquent ! *)
 
+(* Simmera parle avec Maya. *)
 (* Simmera et Julie enquêtent à Hédris. *)
 
 "relique" ;            (* Nathan tue Maya, parle à Than. *)
