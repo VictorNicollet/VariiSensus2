@@ -17,11 +17,11 @@
 "exploration" ;        (* Onterberg et Lucrèce arrivent au fond du monde. *)
 "fantomes" ;           (* Simmera rencontre les naufragés. *)
 "affranchie" ;	       (* Simmera libère Géraldine. *)
-
+"hayako" ;             (* Staniel parle à Hayako. *)
 "dernier-temple" ;     (* Simmera arrive au Dernier Temple. *)
-"romance" ;            (* Giselle rencontre Charles et Eusèbe. *)
 "triangle" ;           (* Staniel, Julie et Simmera parlent de leurs 
 			  projets. *)
+"romance" ;            (* Giselle rencontre Charles et Eusèbe. *)
 "trahison" ;           (* Carnaval interroge Nathan sur Giselle. *) 
 "exorcisme" ;          (* Julie emmène Simmera à Nymett. *)
 "lovecraft" ;          (* Les Suidinns attaquent ! *)
