@@ -15,8 +15,8 @@
 "ordo-aureus" ;        (* Staniel exécute Akim et nomme Hans Banach à sa 
 			  place. *)
 "exploration" ;        (* Onterberg et Lucrèce arrivent au fond du monde. *)
-	
-(* Simmera et Lugoj affrontent les esprits. *)
+"fantomes" ;           (* Simmera rencontre les naufragés. *)
+"affranchie" ;	       (* Simmera libère Géraldine. *)
 
 "dernier-temple" ;     (* Simmera arrive au Dernier Temple. *)
 "romance" ;            (* Giselle rencontre Charles et Eusèbe. *)
@@ -30,6 +30,9 @@
 (* Simmera et Julie enquêtent à Hédris. *)
 
 "relique" ;            (* Nathan tue Maya, parle à Than. *)
+
+(* Nathan et Carnaval trompent Simmera. *)
+
 "nathan-vs-thanadir" ; (* Nathan tue Julie. *)
 "nouvelle-thanadir" ;  (* Simmera devient la nouvelle Thanadir. *)
 "the-end" ;            (* Simmera tue Ildaric et Orona définitivement. *)
