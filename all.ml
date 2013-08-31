@@ -22,6 +22,9 @@
 "triangle" ;           (* Staniel, Julie et Simmera parlent de leurs 
 			  projets. *)
 "romance" ;            (* Giselle rencontre Charles et Eusèbe. *)
+
+(* Le Conseil fait prêter serment à Isidora. *)
+
 "trahison" ;           (* Carnaval interroge Nathan sur Giselle. *) 
 "exorcisme" ;          (* Julie emmène Simmera à Nymett. *)
 "lovecraft" ;          (* Les Suidinns attaquent ! *)
@@ -31,7 +34,9 @@
 
 "relique" ;            (* Nathan tue Maya, parle à Than. *)
 
-(* Nathan et Carnaval trompent Simmera. *)
+(* Simmera et Julie explorent le Gouffre des Anciens. *)
+
+"nymett" ;             (* Nathan et Carnaval trompent Simmera. *)
 
 "nathan-vs-thanadir" ; (* Nathan tue Julie. *)
 "nouvelle-thanadir" ;  (* Simmera devient la nouvelle Thanadir. *)
