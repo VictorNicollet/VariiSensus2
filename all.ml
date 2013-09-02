@@ -36,6 +36,7 @@
 
 (* Simmera et Julie explorent le Gouffre des Anciens. *)
 
+"jouldari" ;           (* Morgane accueille Carnaval à Nymett. *)
 "nymett" ;             (* Nathan et Carnaval trompent Simmera. *)
 
 "nathan-vs-thanadir" ; (* Nathan tue Julie. *)
