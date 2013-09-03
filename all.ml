@@ -24,6 +24,7 @@
 "romance" ;            (* Giselle rencontre Charles et Eusèbe. *)
 "isidora" ;            (* Le Conseil fait prêter serment à Isidora. *)
 "trahison" ;           (* Carnaval interroge Nathan sur Giselle. *) 
+"insurrection" ;       (* Giselle prend le contrôle des Altarane. *)
 "exorcisme" ;          (* Julie emmène Simmera à Nymett. *)
 "lovecraft" ;          (* Les Suidinns attaquent ! *)
 
