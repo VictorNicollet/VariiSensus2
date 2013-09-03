@@ -38,6 +38,7 @@
 
 "jouldari" ;           (* Morgane accueille Carnaval à Nymett. *)
 "nymett" ;             (* Nathan et Carnaval trompent Simmera. *)
+"kirons" ;             (* Julie invoque une Kiron. *)
 
 "nathan-vs-thanadir" ; (* Nathan tue Julie. *)
 "nouvelle-thanadir" ;  (* Simmera devient la nouvelle Thanadir. *)
