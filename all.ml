@@ -22,9 +22,7 @@
 "triangle" ;           (* Staniel, Julie et Simmera parlent de leurs 
 			  projets. *)
 "romance" ;            (* Giselle rencontre Charles et Eusèbe. *)
-
-(* Le Conseil fait prêter serment à Isidora. *)
-
+"isidora" ;            (* Le Conseil fait prêter serment à Isidora. *)
 "trahison" ;           (* Carnaval interroge Nathan sur Giselle. *) 
 "exorcisme" ;          (* Julie emmène Simmera à Nymett. *)
 "lovecraft" ;          (* Les Suidinns attaquent ! *)
@@ -38,7 +36,8 @@
 
 "jouldari" ;           (* Morgane accueille Carnaval à Nymett. *)
 "nymett" ;             (* Nathan et Carnaval trompent Simmera. *)
-"kirons" ;             (* Julie invoque une Kiron. *)
+"kirons" ;             (* Julie invoque une Kiron, Simmera retrouve 
+                          Giselle. *)
 
 "nathan-vs-thanadir" ; (* Nathan tue Julie. *)
 "nouvelle-thanadir" ;  (* Simmera devient la nouvelle Thanadir. *)
