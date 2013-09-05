@@ -27,8 +27,8 @@
 "insurrection" ;       (* Giselle prend le contrôle des Altarane. *)
 "exorcisme" ;          (* Julie emmène Simmera à Nymett. *)
 "lovecraft" ;          (* Les Suidinns attaquent ! *)
-
-(* Simmera parle avec Maya. *)
+"maya" ;               (* Simmera parle avec Maya. *)
+ 
 (* Simmera et Julie enquêtent à Hédris. *)
 
 "relique" ;            (* Nathan tue Maya, parle à Than. *)
