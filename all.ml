@@ -28,17 +28,20 @@
 "exorcisme" ;          (* Julie emmène Simmera à Nymett. *)
 "lovecraft" ;          (* Les Suidinns attaquent ! *)
 "maya" ;               (* Simmera parle avec Maya. *)
- 
-(* Simmera et Julie enquêtent à Hédris. *)
-
+"hedris" ;             (* Simmera et Julie enquêtent à Hédris. *)
 "relique" ;            (* Nathan tue Maya, parle à Than. *)
 
-(* Simmera et Julie explorent le Gouffre des Anciens. *)
+(* Simmera et Julie trouvent la larme de l'Ygadir. *)
 
 "jouldari" ;           (* Morgane accueille Carnaval à Nymett. *)
 "nymett" ;             (* Nathan et Carnaval trompent Simmera. *)
 "kirons" ;             (* Julie invoque une Kiron, Simmera retrouve 
                           Giselle. *)
+
+(* Ildaric et Hayako parlent de l'invasion. *)
+(* Simmera arrive à Hayako. *)
+(* Simmera parle avec Orona et Ildaric. *)
+(* Ildaric explique à Simmera les Suidaster. *)
 
 "nathan-vs-thanadir" ; (* Nathan tue Julie. *)
 "nouvelle-thanadir" ;  (* Simmera devient la nouvelle Thanadir. *)
