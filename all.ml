@@ -29,10 +29,8 @@
 "lovecraft" ;          (* Les Suidinns attaquent ! *)
 "maya" ;               (* Simmera parle avec Maya. *)
 "hedris" ;             (* Simmera et Julie enquêtent à Hédris. *)
+"demi-vie" ;           (* Fin de l'aventure à Hédris. *)
 "relique" ;            (* Nathan tue Maya, parle à Than. *)
-
-(* Simmera et Julie trouvent la larme de l'Ygadir. *)
-
 "jouldari" ;           (* Morgane accueille Carnaval à Nymett. *)
 "nymett" ;             (* Nathan et Carnaval trompent Simmera. *)
 "kirons" ;             (* Julie invoque une Kiron, Simmera retrouve 
