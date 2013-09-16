@@ -35,8 +35,8 @@
 "nymett" ;             (* Nathan et Carnaval trompent Simmera. *)
 "kirons" ;             (* Julie invoque une Kiron, Simmera retrouve 
                           Giselle. *)
+"rituel" ;             (* Ildaric et Hayako parlent de l'invasion. *)
 
-(* Ildaric et Hayako parlent de l'invasion. *)
 (* Simmera arrive à Hayako. *)
 (* Simmera parle avec Orona et Ildaric. *)
 (* Ildaric explique à Simmera les Suidaster. *)
