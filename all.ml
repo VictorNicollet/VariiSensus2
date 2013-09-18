@@ -36,8 +36,8 @@
 "kirons" ;             (* Julie invoque une Kiron, Simmera retrouve 
                           Giselle. *)
 "rituel" ;             (* Ildaric et Hayako parlent de l'invasion. *)
+"survol" ;             (* Simmera arrive à Hayako. *)
 
-(* Simmera arrive à Hayako. *)
 (* Simmera parle avec Orona et Ildaric. *)
 (* Ildaric explique à Simmera les Suidaster. *)
 
