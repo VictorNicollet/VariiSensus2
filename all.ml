@@ -37,10 +37,8 @@
                           Giselle. *)
 "rituel" ;             (* Ildaric et Hayako parlent de l'invasion. *)
 "survol" ;             (* Simmera arrive à Hayako. *)
-"rencontre" ;          (* Simmera parle avec Orona et Ildaric. *)
-
-(* Ildaric explique à Simmera les Suidaster. *)
-
+"rencontre" ;          (* Simmera parle avec Orona. *)
+"possession" ;         (* Ildaric explique à Simmera les Suidaster. *)
 "nathan-vs-thanadir" ; (* Nathan tue Julie. *)
 "nouvelle-thanadir" ;  (* Simmera devient la nouvelle Thanadir. *)
 "the-end" ;            (* Simmera tue Ildaric et Orona définitivement. *)
