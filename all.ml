@@ -37,8 +37,8 @@
                           Giselle. *)
 "rituel" ;             (* Ildaric et Hayako parlent de l'invasion. *)
 "survol" ;             (* Simmera arrive à Hayako. *)
+"rencontre" ;          (* Simmera parle avec Orona et Ildaric. *)
 
-(* Simmera parle avec Orona et Ildaric. *)
 (* Ildaric explique à Simmera les Suidaster. *)
 
 "nathan-vs-thanadir" ; (* Nathan tue Julie. *)
