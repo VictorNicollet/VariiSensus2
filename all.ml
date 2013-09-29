@@ -28,7 +28,7 @@ let all = [
   "naufrage", "Naufrage" ;
 
   (* Akim rencontre Orthys, parle d'Orona. *)
-  "ambition", "Orthys" ;
+  "ambition", "Molidaster" ;
   
   (* Nathan rencontre Orona à Virnalvir. *)
   "esclaves", "Esclaves" ;
