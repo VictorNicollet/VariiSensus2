@@ -90,8 +90,8 @@ let all = [
   (* Nathan et Carnaval trompent Simmera. *)
   "nymett", "Attentats" ;
 
-  (* Julie invoque une Kiron, Simmera retrouve Giselle. *)
-  "kirons", "Kiron" ;
+  (* Julie invoque une Karon, Simmera retrouve Giselle. *)
+  "kirons", "Karon" ;
 
   (* Ildaric et Hayako parlent de l'invasion. *)
   "rituel", "Ildaric" ;
