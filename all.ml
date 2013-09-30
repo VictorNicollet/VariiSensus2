@@ -91,7 +91,7 @@ let all = [
   "nymett", "Attentats" ;
 
   (* Julie invoque une Karon, Simmera retrouve Giselle. *)
-  "kirons", "Karon" ;
+  "kirons", "Kharon" ;
 
   (* Ildaric et Hayako parlent de l'invasion. *)
   "rituel", "Ildaric" ;
