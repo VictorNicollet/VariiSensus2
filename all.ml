@@ -106,7 +106,7 @@ let all = [
   "possession", "Cinq Immortels" ;
   
   (* Nathan tue Julie. *)
-  "nathan-vs-thanadir", "Nathan et Julie" ;
+  "nathan-vs-thanadir", "Nathan Tiresta" ;
 
   (* Simmera devient la nouvelle Thanadir. *)
   "nouvelle-thanadir", "L'obélisque" ;
