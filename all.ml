@@ -103,7 +103,7 @@ let all = [
   "rencontre", "Incognito" ;
 
   (* Ildaric explique à Simmera les Suidaster. *)
-  "possession", "Cinq Immortels" ;
+  "possession", "Cinq immortels" ;
   
   (* Nathan tue Julie. *)
   "nathan-vs-thanadir", "Nathan Tiresta" ;
