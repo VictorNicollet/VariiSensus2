@@ -12,7 +12,7 @@ let head = "\\documentclass[10pt,twocolumn]{article}
 \\begin{document}
 "
 
-
+(*
 let finalhead = "\\documentclass[10pt,openleft,twoside]{book}
 
 \\usepackage[papersize={5in,8in},margin={0.6in,0.75in}]{geometry}
@@ -124,6 +124,41 @@ Victor Nicollet
 
 \\end{center}
 \\end{document}\n"
+*)
+
+let finalhead = "\\documentclass[10pt,oneside,openany]{book}
+
+\\usepackage[papersize={5in,8in},margin={0.6in,0.75in}]{geometry}
+
+\\usepackage[utf8]{inputenc}
+
+\\usepackage{titlesec}
+\\usepackage{color}
+\\definecolor{gray}{rgb}{0.5,0.5,0.5}
+\\titleformat{\\chapter}[hang]{\\LARGE\\bfseries}{\\textcolor{gray}{\\thechapter\\ · }}{0pt}{\\LARGE\\bfseries\\sc}
+\\titlespacing{\\chapter}{0pt}{-30pt}{20pt}
+
+\\usepackage[frenchb]{babel}
+
+\\usepackage{lmodern}
+\\usepackage[T1]{fontenc}
+
+\\author{Victor Nicollet}
+
+\\usepackage{setspace}
+\\onehalfspace
+
+\\usepackage{changepage}
+
+\\setlength{\\parindent}{0in}
+\\setlength{\\parskip}{0.4cm}
+
+\\begin{document}
+
+\\sloppy"
+
+let fin = "\\end{document}\n"
+
 
 let final = false
 
