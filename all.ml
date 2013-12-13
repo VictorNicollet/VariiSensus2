@@ -18,6 +18,9 @@ let all = [
   (* Galilée vient se plaindre à Akim des filles du cauchemar. *)
   "la-meute", "Gorgones" ; 
 
+  (* Carnaval recrute Charles *)
+  "recrutement", "Charles Athello" ;
+  
   (* Nathan rencontre Carnaval. *)
   "transaction", "Carnaval" ;  
       
@@ -33,17 +36,14 @@ let all = [
   (* Nathan rencontre Orona à Virnalvir. *)
   "esclaves", "Esclaves" ;
   
+  (* Hayako recrute Tym. *)
+  "effraction", "Effraction" ; 
+  
   (* Staniel exécute Akim et nomme Hans Banach à sa place. *)
   "ordo-aureus", "Ordo Aureus" ;        
 
   (* Onterberg et Lucrèce arrivent au fond du monde. *)
   "exploration", "Exploration" ;
-  
-  (* Simmera rencontre les naufragés. *)
-  "fantomes", "Terres-Mortes" ;
-
-  (* Simmera libère Géraldine. *)
-  "affranchie", "Géraldine" ;
 
   (* Staniel parle à Hayako. *)
   "hayako", "Hayako" ;
