@@ -36,15 +36,15 @@ let all = [
   (* Nathan rencontre Orona à Virnalvir. *)
   "esclaves", "Esclaves" ;
   
-  (* Hayako recrute Tym. *)
-  "effraction", "Effraction" ; 
-  
   (* Staniel exécute Akim et nomme Hans Banach à sa place. *)
   "ordo-aureus", "Ordo Aureus" ;        
 
   (* Onterberg et Lucrèce arrivent au fond du monde. *)
   "exploration", "Exploration" ;
 
+  (* Hayako recrute Tym. *)
+  "effraction", "Effraction" ; 
+  
   (* Staniel parle à Hayako. *)
   "hayako", "Hayako" ;
   
