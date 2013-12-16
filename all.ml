@@ -27,9 +27,6 @@ let all = [
   (* Le Tyran Boréal est détruit. *)
   "fusees", "Pieds d'argile" ;
  
-  (* Simmera atterrit en rase campagne. *)
-  "naufrage", "Naufrage" ;
-
   (* Akim rencontre Orthys, parle d'Orona. *)
   "ambition", "Molidaster" ;
   
@@ -38,16 +35,19 @@ let all = [
   
   (* Staniel exécute Akim et nomme Hans Banach à sa place. *)
   "ordo-aureus", "Ordo Aureus" ;        
-
+  
   (* Onterberg et Lucrèce arrivent au fond du monde. *)
   "exploration", "Exploration" ;
 
-  (* Hayako recrute Tym. *)
+  (* Hayako trouve Tym. *)
   "effraction", "Effraction" ; 
+
+  (* Tym essaye d'assassiner les prêtres *)
+  "assassin", "Assassin" ;
   
   (* Staniel parle à Hayako. *)
   "hayako", "Hayako" ;
-  
+
   (* Simmera arrive au Dernier Temple. *)
   "dernier-temple", "Le Dernier Temple" ;
 
