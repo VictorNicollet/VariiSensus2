@@ -1,117 +1,269 @@
 let all = [
 
-  (* Akim envoie Onterberg et Lucrèce sous la Brume. *)
+  (* j+0  Akim envoie Onterberg et Lucrèce sous la Brume. 
+   *
+   *      Monastère du Galet Creux
+   *      Akim, Onterberg, Lucrèce, Ark (masque) 
+   *)
   "fier-eclaireur", "Le Fier-Éclaireur" ;
 
-  (* Alexandre retrouve Isidora chez Najah. *)
+  (* j+0  Alexandre retrouve Isidora chez Najah.
+   * 
+   *      Ambassade des Eriadis à Nymett
+   *      Isidora, Alexandre, Najah, Lowen 
+   *)
   "deuil", "Deuil" ;
 
-  (* Sébastien convainc Giselle de tuer un membre de l'équipage. *)
+  (* j+0  Sébastien convainc Giselle de tuer un membre de l'équipage. 
+   *
+   *      Tyran Boréal, au-dessus du Gouffre de Nagovie
+   *      Sébastien, Giselle, Marie
+   *)
   "suicide", "Suicide" ;
 
-  (* Simmera rencontre Giselle à bord du Tyran Boréal. *)
+  (* j+0  Simmera rencontre Giselle à bord du Tyran Boréal. 
+   *
+   *      Tyran Boréal, au-dessus du Gouffre de Nagovie
+   *      Giselle, Simmera 
+   *)
   "envol", "Tasse de café" ;
  
-  (* Saïar parle à Nathan des actions d'Orona à Hayako. *)
+  (* j+0  Saïar parle à Nathan des actions d'Orona à Hayako. 
+   *
+   *      Salle des presses, Gazette de Nagovie
+   *      Saïar, Nathan, Benny, Matthus
+   *)
   "presses", "Journalisme" ;
 
-  (* Carnaval recrute Charles *)
+  (* j+1  Carnaval recrute Charles.
+   *
+   *      Repaire de Carnaval, Nagovie
+   *      Carnaval, Charles, Sdalinn, Grigor, Jasmine
+   *)
   "recrutement", "Charles Athello" ;
 
-  (* Galilée vient se plaindre à Akim des filles du cauchemar. *)
+  (* j+1  Galilée vient se plaindre à Akim des filles du cauchemar. 
+   *     
+   *      Monastère du Galet Creux
+   *      Galilée, Akim
+   *)
   "la-meute", "Gorgones" ; 
   
-  (* Nathan rencontre Carnaval. *)
+  (* j+1  Nathan rencontre Carnaval. 
+   *
+   *      Repaire de Carnaval, Nagovie
+   *      Nathan, William, Carnaval, La Gorgone 
+   *)
   "transaction", "Carnaval" ;  
       
-  (* Le Tyran Boréal est détruit. *)
+  (* j+1  Le Tyran Boréal est détruit. 
+   *      
+   *      Gouffre de Nagovie
+   *      Sébastien, Giselle, Isidora 
+   *)
   "fusees", "Pieds d'argile" ;
  
-  (* Akim rencontre Orthys, parle d'Orona. *)
+  (* j+4  Akim rencontre Orthys, parle d'Orona.
+   *     
+   *      Molidaster
+   *      Akim, Orthys, Staniel 
+   *)
   "ambition", "Molidaster" ;
   
-  (* Nathan rencontre Orona à Virnalvir. *)
+  (* j+4  Nathan rencontre Orona à Virnalvir. 
+   *
+   *      Virnalvir
+   *      Nathan, Orona, Mynari, Horace, Dhalsim
+   *)
   "esclaves", "Esclaves" ;
+
+  (* j+4  Simmera arrive au Dernier Temple. 
+   *
+   *      Dernier Temple
+   *      Simmera, Julie, Maya, Odessa
+   *)
+  "dernier-temple", "Le Dernier Temple" ;
   
-  (* Staniel exécute Akim et nomme Hans Banach à sa place. *)
+  (* j+5  Staniel exécute Akim et nomme Hans Banach à sa place. 
+   *      
+   *      Molidaster
+   *      Staniel, Akim, Hans, Orthys 
+   *)
   "ordo-aureus", "Ordo Aureus" ;        
   
-  (* Onterberg et Lucrèce arrivent au fond du monde. *)
+  (* j+5  Onterberg et Lucrèce arrivent au fond du monde. 
+   * 
+   *      Ville des Suidinns 
+   *      Onterberg, Lucrèce, Suidinns 
+   *)
   "exploration", "Exploration" ;
 
-  (* Hayako trouve Tym. *)
+  (* j+8  Hayako trouve Tym. 
+   * 
+   *      Temple de Hayako
+   *      Hayako, Tym 
+   *)
   "effraction", "Effraction" ; 
 
-  (* Tym essaye d'assassiner les prêtres *)
+  (* j+8  Tym essaye d'assassiner les prêtres 
+   * 
+   *      Temple de Hayako
+   *      Hayako, Tym, Lugoj, Prederin, Orthys 
+   *)
   "assassin", "Assassin" ;
   
-  (* Staniel parle à Hayako. *)
+  (* j+9  Staniel parle à Hayako. 
+   *      
+   *      Temple de Hayako
+   *      Hayako, Tym, Staniel, Orthys 
+   *)
   "hayako", "Hayako" ;
 
-  (* Simmera arrive au Dernier Temple. *)
-  "dernier-temple", "Le Dernier Temple" ;
-
-  (* Staniel, Julie et Simmera parlent de leurs projets. *)
+  (* j+10 Staniel, Julie et Simmera parlent de leurs projets. 
+   * 
+   *      Dernier Temple
+   *      Julie, Staniel, Simmer
+   *)
   "triangle", "Mensonges" ;
           
-  (* Giselle rencontre Charles et Eusèbe. *)
+  (* j+10 Giselle rencontre Charles et Eusèbe. 
+   * 
+   *      Hôpital impérial, Nagovie
+   *      Sébastien, La Gorgone, Giselle, Charles, Eusèbe
+   *)
   "romance", "Charles et Eusèbe" ;
   
-  (* Le Conseil fait prêter serment à Isidora. *)
+  (* j+11 Le Conseil fait prêter serment à Isidora. 
+   * 
+   *      Tour du Conseil, Fort Altarane
+   *      Conseil, Isidora 
+   *)
   "isidora", "Le Serment Altarane" ;
      
-  (* Carnaval interroge Nathan sur Giselle. *) 
+  (* j+13 Carnaval interroge Nathan sur Giselle. 
+   * 
+   *      Repaire de Carnaval, Nagovie
+   *      Carnaval, Nathan, Hadrien 
+   *) 
   "trahison", "Obéissance" ;
 
-  (* Giselle prend le contrôle des Altarane. *)
+  (* j+13 Giselle prend le contrôle des Altarane. 
+   * 
+   *      Tour du Conseil, Fort Altarane
+   *      Giselle, Conseil, Charles 
+   *)
   "insurrection", "Insurrection" ;
  
-  (* Julie emmène Simmera à Nymett. *)
+  (* j+13 Julie emmène Simmera à Nymett. 
+   * 
+   *      Hôtel des Luxion Kyanema, Nymett
+   *      Kyanema, Simmera, Julie
+   *)
   "exorcisme", "Exorcisme" ;
   
-  (* Les Suidinns attaquent ! *)
+  (* j+13 Les Suidinns attaquent ! 
+   *    
+   *      Hédris 
+   *      Philippe Howards, Suidinns 
+   *)
   "lovecraft", "Philippe Howards" ;
  
-  (* Simmera parle avec Maya. *)
+  (* j+20 Simmera parle avec Maya. 
+   *     
+   *      Dernier Temple
+   *      Maya, Odessa, Simmera 
+   *)
   "maya", "Rituels" ;
 
-  (* Simmera et Julie enquêtent à Hédris. *)
+  (* j+20 Simmera et Julie enquêtent à Hédris. 
+   * 
+   *      Hédris 
+   *      Simmera, Julie, Suidinns 
+   *)
   "hedris", "Cairn" ;
   
-  (* Fin de l'aventure à Hédris. *)
+  (* j+20 Fin de l'aventure à Hédris. 
+   *
+   *      Banquet de Mygaën
+   *      Simmera, Julie, Horodric, Mygaën
+   *)
   "demi-vie", "Le Banquet" ;
 
-  (* Nathan tue Maya, parle à Than. *)
+  (* j+21 Nathan tue Maya, parle à Than. 
+   * 
+   *      Pointe-Landéval
+   *      Nathan, Maya, Than 
+   *)
   "relique", "Rendez-vous" ;
  
-  (* Morgane accueille Carnaval à Nymett. *)
+  (* j+22 Morgane accueille Carnaval à Nymett. 
+   *   
+   *      Repaire de Carnaval, Nymett
+   *      Morgane, Carnaval
+   *)
   "jouldari", "Nymett" ;
  
-  (* Nathan et Carnaval trompent Simmera. *)
+  (* j+24 Nathan et Carnaval trompent Simmera. 
+   *
+   *      Bibliothèque de Nymett
+   *      Carnaval, Hodron, Nathan, Simmera 
+   *)
   "nymett", "Attentats" ;
 
-  (* Julie invoque une Karon, Simmera retrouve Giselle. *)
+  (* j+25 Julie invoque une Karon, Simmera retrouve Giselle. 
+   *
+   *      Dernier Temple
+   *      Simmera, Julie, Giselle, Charles 
+   *)
   "kirons", "Kharon" ;
 
-  (* Ildaric et Hayako parlent de l'invasion. *)
+  (* j+27 Ildaric et Hayako parlent de l'invasion. 
+   *
+   *      Temple de Hayako
+   *      Orona, Ildaric, Hayako
+   *)
   "rituel", "Ildaric" ;
  
-  (* Simmera arrive à Hayako. *)
+  (* j+27 Simmera arrive à Hayako. 
+   *      
+   *      Aéronef
+   *      Simmera, Giselle
+   *)
   "survol", "Vol de nuit" ;
   
-  (* Simmera parle avec Orona. *)
+  (* j+28 Simmera parle avec Orona. 
+   *   
+   *      Ville de Hayako 
+   *      Simmera, Orona
+   *)
   "rencontre", "Incognito" ;
 
-  (* Ildaric explique à Simmera les Suidaster. *)
+  (* j+28 Ildaric explique à Simmera les Suidaster. 
+   *
+   *      Temple de Hayako
+   *      Simmera, Orona, Ildaric, Hayako, Staniel 
+   *)
   "possession", "Cinq immortels" ;
   
-  (* Nathan tue Julie. *)
+  (* j+28 Nathan tue Julie. 
+   * 
+   *      Nymett
+   *      Nathan, Julie 
+   *)
   "nathan-vs-thanadir", "Nathan Tiresta" ;
 
-  (* Simmera devient la nouvelle Thanadir. *)
+  (* j+28 Simmera devient la nouvelle Thanadir. 
+   * 
+   *      Thanao 
+   *      Simmera, Than
+   *)
   "nouvelle-thanadir", "L'obélisque" ;
   
-  (* Simmera tue Ildaric et Orona définitivement. *)
+  (* j+28 Simmera tue Ildaric et Orona définitivement. 
+   * 
+   *      Dernier Temple
+   *      Simmera, Ildaric, Hayako, Staniel, Orona 
+   *)
   "the-end", "Thanadir" ; 
 
 ]
