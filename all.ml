@@ -15,11 +15,11 @@ let all = [
   (* Saïar parle à Nathan des actions d'Orona à Hayako. *)
   "presses", "Journalisme" ;
 
-  (* Galilée vient se plaindre à Akim des filles du cauchemar. *)
-  "la-meute", "Gorgones" ; 
-
   (* Carnaval recrute Charles *)
   "recrutement", "Charles Athello" ;
+
+  (* Galilée vient se plaindre à Akim des filles du cauchemar. *)
+  "la-meute", "Gorgones" ; 
   
   (* Nathan rencontre Carnaval. *)
   "transaction", "Carnaval" ;  
