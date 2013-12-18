@@ -40,7 +40,7 @@ let all = [
    *      Repaire de Carnaval, Nagovie
    *      Carnaval, Charles, Sdalinn, Grigor, Jasmine
    *)
-  "recrutement", "Charles Athello" ;
+  "recrutement", "Carnaval" ;
 
   (* j+1  Galilée vient se plaindre à Akim des filles du cauchemar. 
    *     
@@ -54,7 +54,7 @@ let all = [
    *      Repaire de Carnaval, Nagovie
    *      Nathan, William, Carnaval, La Gorgone 
    *)
-  "transaction", "Carnaval" ;  
+  "transaction", "Transaction" ;  
       
   (* j+1  Le Tyran Boréal est détruit. 
    *      
