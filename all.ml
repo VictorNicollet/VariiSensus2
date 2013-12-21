@@ -80,7 +80,7 @@ let all = [
   (* j+4  Simmera arrive au Dernier Temple. 
    *
    *      Dernier Temple
-   *      Simmera, Julie, Maya, Odessa
+   *      Simmera, Julie, Maya, Odessa, Yveline
    *)
   "dernier-temple", "Le Dernier Temple" ;
   
@@ -122,7 +122,7 @@ let all = [
   (* j+10 Staniel, Julie et Simmera parlent de leurs projets. 
    * 
    *      Dernier Temple
-   *      Julie, Staniel, Simmer
+   *      Julie, Staniel, Simmera
    *)
   "triangle", "Mensonges" ;
           
