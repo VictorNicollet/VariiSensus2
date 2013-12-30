@@ -77,12 +77,19 @@ let all = [
    *)
   "esclaves", "Esclaves" ;
 
-  (* j+4  Simmera arrive au Dernier Temple. 
+  (* j+4  Simmera arrive près du Dernier Temple. 
    *
    *      Dernier Temple
-   *      Simmera, Julie, Maya, Odessa, Yveline
+   *      Simmera, Julie, Odessa, Yveline, Tarski
    *)
   "dernier-temple", "Le Dernier Temple" ;
+
+  (* j+4  Julie sauve Simmera et la ramène au temple. 
+   *
+   *      Dernier Temple
+   *      Simmera, Julie, Odessa, Maya
+   *)
+  "fantomes", "Nocturne" ;
   
   (* j+5  Staniel exécute Akim et nomme Hans Banach à sa place. 
    *      
