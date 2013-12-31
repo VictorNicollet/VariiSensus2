@@ -1,6 +1,7 @@
 let all = [
 
   (* j+0  Akim envoie Onterberg et Lucrèce sous la Brume. 
+   *      ===============================================
    *
    *      Monastère du Galet Creux
    *      Akim, Onterberg, Lucrèce, Ark (masque) 
@@ -8,6 +9,7 @@ let all = [
   "fier-eclaireur", "Le Fier-Éclaireur" ;
 
   (* j+0  Alexandre retrouve Isidora chez Najah.
+   *      ======================================
    * 
    *      Ambassade des Eriadis à Nymett
    *      Isidora, Alexandre, Najah, Lowen 
@@ -15,6 +17,7 @@ let all = [
   "deuil", "Deuil" ;
 
   (* j+0  Sébastien convainc Giselle de tuer un membre de l'équipage. 
+   *      ===========================================================
    *
    *      Tyran Boréal, au-dessus du Gouffre de Nagovie
    *      Sébastien, Giselle, Marie
@@ -36,6 +39,7 @@ let all = [
   "presses", "Journalisme" ;
 
   (* j+1  Carnaval recrute Charles.
+   *      =========================
    *
    *      Repaire de Carnaval, Nagovie
    *      Carnaval, Charles, Sdalinn, Grigor, Jasmine
@@ -43,13 +47,15 @@ let all = [
   "recrutement", "Carnaval" ;
 
   (* j+1  Galilée vient se plaindre à Akim des filles du cauchemar. 
-   *     
+   *      =========================================================     
+   *
    *      Monastère du Galet Creux
    *      Galilée, Akim
    *)
   "la-meute", "Gorgones" ; 
   
   (* j+1  Nathan rencontre Carnaval. 
+   *      ==========================
    *
    *      Repaire de Carnaval, Nagovie
    *      Nathan, William, Carnaval, La Gorgone 
@@ -78,6 +84,7 @@ let all = [
   "esclaves", "Esclaves" ;
 
   (* j+4  Simmera arrive près du Dernier Temple. 
+   *      ======================================
    *
    *      Dernier Temple
    *      Simmera, Julie, Odessa, Yveline, Tarski
@@ -85,6 +92,7 @@ let all = [
   "dernier-temple", "Prêtresses de Than" ;
 
   (* j+4  Julie sauve Simmera et la ramène au temple. 
+   *      ===========================================
    *
    *      Dernier Temple
    *      Simmera, Julie
@@ -106,6 +114,7 @@ let all = [
   "exploration", "Exploration" ;
 
   (* j+8  Hayako trouve Tym. 
+   *      ==================
    * 
    *      Temple de Hayako
    *      Hayako, Tym 
@@ -113,7 +122,8 @@ let all = [
   "effraction", "Effraction" ; 
 
   (* j+8  Tym essaye d'assassiner les prêtres 
-   * 
+   *      =================================== 
+   *
    *      Temple de Hayako
    *      Hayako, Tym, Lugoj, Prederin, Orthys 
    *)
@@ -127,6 +137,7 @@ let all = [
   "hayako", "Hayako" ;
 
   (* j+10 Simmera est installée au Dernier Temple.
+   *      ========================================
    * 
    *      Dernier Temple
    *      Simmera, Julie, Odessa, Maya, Yveline 
