@@ -87,9 +87,16 @@ let all = [
   (* j+4  Julie sauve Simmera et la ramène au temple. 
    *
    *      Dernier Temple
-   *      Simmera, Julie, Odessa, Maya
+   *      Simmera, Julie
    *)
   "fantomes", "Nocturne" ;
+  
+  (* j+5  Simmera arrive au Dernier Temple, fait connaissance. 
+   * 
+   *      Dernier Temple
+   *      Simmera, Julie 
+   *)
+  "anciens", "Architecture" ; 
   
   (* j+5  Staniel exécute Akim et nomme Hans Banach à sa place. 
    *      
