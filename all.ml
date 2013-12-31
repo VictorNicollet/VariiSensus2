@@ -82,7 +82,7 @@ let all = [
    *      Dernier Temple
    *      Simmera, Julie, Odessa, Yveline, Tarski
    *)
-  "dernier-temple", "Le Dernier Temple" ;
+  "dernier-temple", "Prêtresses de Than" ;
 
   (* j+4  Julie sauve Simmera et la ramène au temple. 
    *
@@ -90,14 +90,7 @@ let all = [
    *      Simmera, Julie
    *)
   "fantomes", "Nocturne" ;
-  
-  (* j+5  Simmera arrive au Dernier Temple, fait connaissance. 
-   * 
-   *      Dernier Temple
-   *      Simmera, Julie, Odessa, Maya, Yveline 
-   *)
-  "anciens", "Architecture" ; 
-  
+    
   (* j+5  Staniel exécute Akim et nomme Hans Banach à sa place. 
    *      
    *      Molidaster
@@ -126,12 +119,19 @@ let all = [
    *)
   "assassin", "Assassin" ;
   
-  (* j+9  Staniel parle à Hayako. 
+  (* j+9  Hayako parle de Staniel et des anciens à Tym, parle à Staniel.
    *      
    *      Temple de Hayako
    *      Hayako, Tym, Staniel, Orthys 
    *)
   "hayako", "Hayako" ;
+
+  (* j+10 Simmera est installée au Dernier Temple.
+   * 
+   *      Dernier Temple
+   *      Simmera, Julie, Odessa, Maya, Yveline 
+   *)
+  "anciens", "Le Dernier Temple" ; 
 
   (* j+10 Staniel, Julie et Simmera parlent de leurs projets. 
    * 
