@@ -94,7 +94,7 @@ let all = [
   (* j+5  Simmera arrive au Dernier Temple, fait connaissance. 
    * 
    *      Dernier Temple
-   *      Simmera, Julie 
+   *      Simmera, Julie, Odessa, Maya, Yveline 
    *)
   "anciens", "Architecture" ; 
   
