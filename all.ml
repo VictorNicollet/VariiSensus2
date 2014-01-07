@@ -91,13 +91,20 @@ let all = [
    *)
   "dernier-temple", "Prêtresses de Than" ;
 
-  (* j+4  Julie sauve Simmera et la ramène au temple. 
+  (* j+5  Julie sauve Simmera et la ramène au temple. 
    *      ===========================================
    *
    *      Dernier Temple
    *      Simmera, Julie
    *)
   "fantomes", "Nocturne" ;
+  
+  (* j+5  Simmera entre au Dernier Temple. 
+   *
+   *      Dernier Temple
+   *      Simmera, Julie, Odessa, Maya, Yveline 
+   *)
+  "ensemble", "Le Dernier Temple" ; 
     
   (* j+5  Staniel exécute Akim et nomme Hans Banach à sa place. 
    *      
@@ -142,7 +149,7 @@ let all = [
    *      Dernier Temple
    *      Simmera, Julie, Odessa, Maya, Yveline 
    *)
-  "anciens", "Le Dernier Temple" ; 
+  "anciens", "Invitation" ; 
 
   (* j+10 Staniel, Julie et Simmera parlent de leurs projets. 
    * 
