@@ -32,6 +32,7 @@ let all = [
   "envol", "Tasse de café" ;
  
   (* j+0  Saïar parle à Nathan des actions d'Orona à Hayako. 
+   *      ==================================================
    *
    *      Salle des presses, Gazette de Nagovie
    *      Saïar, Nathan, Benny, Matthus
