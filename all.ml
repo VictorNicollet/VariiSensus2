@@ -70,10 +70,10 @@ let all = [
    *)
   "fusees", "Pieds d'argile" ;
  
-  (* j+4  Akim rencontre Orthys, parle d'Orona.
+  (* j+4  Akim rencontre Tarski, parle d'Orona.
    *     
    *      Molidaster
-   *      Akim, Orthys, Staniel 
+   *      Akim, Tarski, Staniel 
    *)
   "ambition", "Molidaster" ;
   
@@ -111,7 +111,7 @@ let all = [
   (* j+5  Staniel exécute Akim et nomme Hans Banach à sa place. 
    *      
    *      Molidaster
-   *      Staniel, Akim, Hans, Orthys 
+   *      Staniel, Akim, Hans, Tarski 
    *)
   "ordo-aureus", "Ordo Aureus" ;        
   
@@ -134,14 +134,14 @@ let all = [
    *      =================================== 
    *
    *      Temple de Hayako
-   *      Hayako, Tym, Lugoj, Prederin, Orthys 
+   *      Hayako, Tym, Lugoj, Prederin, Tarski 
    *)
   "assassin", "Assassin" ;
   
   (* j+9  Hayako parle de Staniel et des anciens à Tym, parle à Staniel.
    *      
    *      Temple de Hayako
-   *      Hayako, Tym, Staniel, Orthys 
+   *      Hayako, Tym, Staniel, Tarski 
    *)
   "hayako", "Hayako" ;
 
