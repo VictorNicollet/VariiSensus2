@@ -140,6 +140,7 @@ let all = [
   "assassin", "Assassin" ;
   
   (* j+9  Hayako parle de Staniel et des anciens à Tym, parle à Staniel.
+   *      ==============================================================
    *      
    *      Temple de Hayako
    *      Hayako, Tym, Staniel, Tarski 
