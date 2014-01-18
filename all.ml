@@ -233,7 +233,8 @@ let all = [
    *)
   "demi-vie", "Le Banquet" ;
   
-  (* j+20 Retour au temple. 
+  (* j+20 Julie explique pourquoi elle veut tuer Nathan.
+   *      ==============================================
    * 
    *      Dernier Temple
    *      Simmera, Julie, Odessa 
