@@ -210,7 +210,8 @@ let all = [
   "lovecraft", "Philippe Howards" ;
  
   (* j+20 Simmera parle avec Maya. 
-   *     
+   *      ========================     
+   *
    *      Dernier Temple
    *      Maya, Odessa, Simmera 
    *)
