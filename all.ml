@@ -110,7 +110,8 @@ let all = [
   "ensemble", "Le Dernier Temple" ; 
     
   (* j+5  Staniel exécute Akim et nomme Hans Banach à sa place. 
-   *      
+   *      =====================================================      
+   *
    *      Molidaster
    *      Staniel, Akim, Hans, Tarski 
    *)
