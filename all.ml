@@ -194,6 +194,7 @@ let all = [
   "insurrection", "Insurrection" ;
  
   (* j+13 Julie emmène Simmera à Nymett. 
+   *      ==============================
    * 
    *      Hôtel des Luxion Kyanema, Nymett
    *      Kyanema, Simmera, Julie
