@@ -226,11 +226,19 @@ let all = [
   "hedris", "Cairn" ;
   
   (* j+20 Fin de l'aventure à Hédris. 
+   *      ===========================
    *
    *      Banquet de Mygaën
    *      Simmera, Julie, Horodric, Mygaën
    *)
   "demi-vie", "Le Banquet" ;
+  
+  (* j+20 Retour au temple. 
+   * 
+   *      Dernier Temple
+   *      Simmera, Julie, Odessa 
+   *)
+  "vengeance", "Vengeance" ; 
 
   (* j+21 Nathan tue Maya, parle à Than. 
    * 
