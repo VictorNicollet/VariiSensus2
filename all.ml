@@ -117,7 +117,8 @@ let all = [
    *)
   "ordo-aureus", "Ordo Aureus" ;        
   
-  (* j+5  Onterberg et Lucrèce arrivent au fond du monde. 
+  (* j+7  Onterberg et Lucrèce arrivent au fond du monde. 
+   *      ===============================================
    * 
    *      Ville des Suidinns 
    *      Onterberg, Lucrèce, Suidinns 
