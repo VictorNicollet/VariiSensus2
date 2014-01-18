@@ -71,6 +71,7 @@ let all = [
   "fusees", "Pieds d'argile" ;
  
   (* j+4  Akim rencontre Tarski, parle d'Orona.
+   *      =====================================
    *     
    *      Molidaster
    *      Akim, Tarski, Staniel 
