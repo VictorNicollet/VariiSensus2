@@ -272,7 +272,7 @@ let all = [
    *)
   "bibliotheque", "Bibliothèque" ;
 
-  (* j+25 Julie invoque une Karon, Simmera retrouve Giselle. 
+  (* j+25 Julie invoque une Kharon, Simmera retrouve Giselle. 
    *
    *      Dernier Temple
    *      Simmera, Julie, Giselle, Charles 
