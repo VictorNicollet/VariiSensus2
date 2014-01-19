@@ -256,12 +256,20 @@ let all = [
    *)
   "jouldari", "Nymett" ;
  
-  (* j+24 Nathan et Carnaval trompent Simmera. 
+  (* j+24 Nathan offre une relique de Nattar à Carnaval.
+   *      ==============================================
    *
-   *      Bibliothèque de Nymett
-   *      Carnaval, Hodron, Nathan, Simmera 
+   *      Repaire de Carnaval, Nymett
+   *      Carnaval, Nathan 
    *)
-  "nymett", "Attentats" ;
+  "nymett", "Relique" ;
+  
+  (* j+25 Nathan et Carnaval trompent Simmera.
+   * 
+   *      Bibliothèque Impériale, Nymett
+   *      Carnaval, Nathan, Hodron, Simmera
+   *)
+  "bibliotheque", "Bibliothèque" ;
 
   (* j+25 Julie invoque une Karon, Simmera retrouve Giselle. 
    *
