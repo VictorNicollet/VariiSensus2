@@ -273,6 +273,7 @@ let all = [
   "kirons", "Démons de Than" ;
 
   (* j+27 Ildaric et Hayako parlent de l'invasion. 
+   *      ========================================
    *
    *      Temple de Hayako
    *      Orona, Ildaric, Hayako
