@@ -173,6 +173,7 @@ let all = [
   "romance", "Charles Athello" ;
   
   (* j+11 Le Conseil fait prêter serment à Isidora. 
+   *      =========================================
    * 
    *      Tour du Conseil, Fort Altarane
    *      Conseil, Isidora 
