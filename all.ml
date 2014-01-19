@@ -14,7 +14,7 @@ let all = [
    *      Ambassade des Eriadis à Nymett
    *      Isidora, Alexandre, Najah, Lowen 
    *)
-  "deuil", "Deuil" ;
+  "deuil", "Najah Eriadis" ;
 
   (* j+0  Sébastien convainc Giselle de tuer un membre de l'équipage. 
    *      ===========================================================
@@ -22,7 +22,7 @@ let all = [
    *      Tyran Boréal, au-dessus du Gouffre de Nagovie
    *      Sébastien, Giselle, Marie
    *)
-  "suicide", "Suicide" ;
+  "suicide", "Marie Guirevennec" ;
 
   (* j+0  Simmera rencontre Giselle à bord du Tyran Boréal. 
    *
@@ -37,7 +37,7 @@ let all = [
    *      Salle des presses, Gazette de Nagovie
    *      Saïar, Nathan, Benny, Matthus
    *)
-  "presses", "Journalisme" ;
+  "presses", "Bons procédés" ;
 
   (* j+1  Carnaval recrute Charles.
    *      =========================
@@ -53,7 +53,7 @@ let all = [
    *      Monastère du Galet Creux
    *      Galilée, Akim
    *)
-  "la-meute", "Gorgones" ; 
+  "la-meute", "Miettes d'Adinns" ; 
   
   (* j+1  Nathan rencontre Carnaval. 
    *      ==========================
@@ -61,14 +61,14 @@ let all = [
    *      Repaire de Carnaval, Nagovie
    *      Nathan, William, Carnaval, La Gorgone 
    *)
-  "transaction", "Transaction" ;  
+  "transaction", "Réputation" ;  
       
   (* j+1  Le Tyran Boréal est détruit. 
    *      
    *      Gouffre de Nagovie
    *      Sébastien, Giselle, Isidora 
    *)
-  "fusees", "Pieds d'argile" ;
+  "fusees", "Tir groupé" ;
  
   (* j+4  Akim rencontre Tarski, parle d'Orona.
    *      =====================================
@@ -99,7 +99,7 @@ let all = [
    *      Dernier Temple
    *      Simmera, Julie
    *)
-  "fantomes", "Nocturne" ;
+  "fantomes", "Danse Macabre" ;
   
   (* j+5  Simmera entre au Dernier Temple. 
    *      ================================
@@ -131,7 +131,7 @@ let all = [
    *      Temple de Hayako
    *      Hayako, Tym 
    *)
-  "effraction", "Effraction" ; 
+  "effraction", "Tym Dareus" ; 
 
   (* j+8  Tym essaye d'assassiner les prêtres 
    *      =================================== 
@@ -139,7 +139,7 @@ let all = [
    *      Temple de Hayako
    *      Hayako, Tym, Lugoj, Prederin, Tarski 
    *)
-  "assassin", "Assassin" ;
+  "assassin", "Hayako" ;
   
   (* j+9  Hayako parle de Staniel et des anciens à Tym, parle à Staniel.
    *      ==============================================================
@@ -147,7 +147,7 @@ let all = [
    *      Temple de Hayako
    *      Hayako, Tym, Staniel, Tarski 
    *)
-  "hayako", "Hayako" ;
+  "hayako", "Entrevue" ;
 
   (* j+10 Simmera est installée au Dernier Temple.
    *      ========================================
@@ -155,7 +155,7 @@ let all = [
    *      Dernier Temple
    *      Simmera, Julie, Odessa, Maya, Yveline 
    *)
-  "anciens", "Invitation" ; 
+  "anciens", "Autel de Than" ; 
 
   (* j+10 Staniel, Julie et Simmera parlent de leurs projets. 
    *      ===================================================
@@ -170,29 +170,22 @@ let all = [
    *      Hôpital impérial, Nagovie
    *      Sébastien, La Gorgone, Giselle, Charles, Eusèbe
    *)
-  "romance", "Charles et Eusèbe" ;
+  "romance", "Charles Athello" ;
   
   (* j+11 Le Conseil fait prêter serment à Isidora. 
    * 
    *      Tour du Conseil, Fort Altarane
    *      Conseil, Isidora 
    *)
-  "isidora", "Le Serment Altarane" ;
+  "isidora", "Isidora Guirevennec" ;
      
   (* j+13 Carnaval interroge Nathan sur Giselle. 
    * 
    *      Repaire de Carnaval, Nagovie
    *      Carnaval, Nathan, Hadrien 
    *) 
-  "trahison", "Obéissance" ;
+  "trahison", "Pater familias" ;
 
-  (* j+13 Giselle prend le contrôle des Altarane. 
-   * 
-   *      Tour du Conseil, Fort Altarane
-   *      Giselle, Conseil, Charles 
-   *)
-  "insurrection", "Insurrection" ;
- 
   (* j+13 Julie emmène Simmera à Nymett. 
    *      ==============================
    * 
@@ -247,7 +240,7 @@ let all = [
    *      Pointe-Landéval
    *      Nathan, Maya, Than 
    *)
-  "relique", "Rendez-vous" ;
+  "relique", "Maya Alvir" ;
  
   (* j+22 Morgane accueille Carnaval à Nymett. 
    *      ====================================
@@ -255,7 +248,7 @@ let all = [
    *      Repaire de Carnaval, Nymett
    *      Morgane, Carnaval
    *)
-  "jouldari", "Nymett" ;
+  "jouldari", "Michelle Guirevennec" ;
  
   (* j+24 Nathan offre une relique de Nattar à Carnaval.
    *      ==============================================
@@ -277,14 +270,14 @@ let all = [
    *      Dernier Temple
    *      Simmera, Julie, Giselle, Charles 
    *)
-  "kirons", "Kharon" ;
+  "kirons", "Démons de Than" ;
 
   (* j+27 Ildaric et Hayako parlent de l'invasion. 
    *
    *      Temple de Hayako
    *      Orona, Ildaric, Hayako
    *)
-  "rituel", "Ildaric" ;
+  "rituel", "Ildaric Kaldara" ;
  
   (* j+27 Simmera arrive à Hayako. 
    *      
@@ -319,14 +312,14 @@ let all = [
    *      Thanao 
    *      Simmera, Than
    *)
-  "nouvelle-thanadir", "L'obélisque" ;
+  "nouvelle-thanadir", "Obélisque de Than" ;
   
   (* j+28 Simmera tue Ildaric et Orona définitivement. 
    * 
    *      Dernier Temple
    *      Simmera, Ildaric, Hayako, Staniel, Orona 
    *)
-  "the-end", "Thanadir" ; 
+  "the-end", "Adir de Than" ; 
 
 ]
 
