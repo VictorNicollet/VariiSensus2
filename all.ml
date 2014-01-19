@@ -64,6 +64,7 @@ let all = [
   "transaction", "Réputation" ;  
       
   (* j+1  Le Tyran Boréal est détruit. 
+   *      ============================
    *      
    *      Gouffre de Nagovie
    *      Sébastien, Giselle, Isidora 
