@@ -181,11 +181,12 @@ let all = [
   "isidora", "Isidora Guirevennec" ;
      
   (* j+13 Carnaval interroge Nathan sur Giselle. 
+   *      ======================================
    * 
    *      Repaire de Carnaval, Nagovie
    *      Carnaval, Nathan, Hadrien 
    *) 
-  "trahison", "Pater familias" ;
+  "trahison", "Masques" ;
 
   (* j+13 Julie emmène Simmera à Nymett. 
    *      ==============================
