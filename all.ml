@@ -80,12 +80,20 @@ let all = [
    *)
   "ambition", "Molidaster" ;
   
-  (* j+4  Nathan rencontre Orona à Virnalvir. 
+  (* j+4  Nathan rencontre Orona à Vernalvir. 
+   *      ===================================
    *
-   *      Virnalvir
-   *      Nathan, Orona, Mynari, Horace, Dhalsim
+   *      Vernalvir
+   *      Nathan, Orona, Dhalsim
    *)
   "esclaves", "Esclaves" ;
+  
+  (* j+4  Orona libère les esclaves de Vernalvir
+   *
+   *      Vernalvir
+   *      Mynari, Horace, Nathan, Orona, Dhalsim
+   *)
+  "liberation", "Révélations" ; 
 
   (* j+4  Simmera arrive près du Dernier Temple. 
    *      ======================================
