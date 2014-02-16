@@ -301,12 +301,20 @@ let all = [
    *)
   "survol", "Vol de nuit" ;
   
-  (* j+28 Simmera parle avec Orona. 
+  (* j+28 Orona vient sauver Simmera 
+   *      ==========================
    *   
    *      Ville de Hayako 
    *      Simmera, Orona
    *)
   "rencontre", "Incognito" ;
+
+  (* j+28 Orona emmène Simmera au Temple   
+   *   
+   *      Ville de Hayako 
+   *      Simmera, Orona
+   *)  
+  "escalade", "Douze Cent Marches" ;
 
   (* j+28 Ildaric explique à Simmera les Suidaster. 
    *
