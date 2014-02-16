@@ -84,14 +84,15 @@ let all = [
    *      ===================================
    *
    *      Vernalvir
-   *      Nathan, Orona, Dhalsim
+   *      Nathan, Orona, Dharsim
    *)
   "esclaves", "Esclaves" ;
   
   (* j+4  Orona libère les esclaves de Vernalvir
+   *      ======================================
    *
    *      Vernalvir
-   *      Mynari, Horace, Nathan, Orona, Dhalsim
+   *      Mynari, Horace, Nathan, Orona, Dharsim
    *)
   "liberation", "Révélations" ; 
 
