@@ -309,7 +309,8 @@ let all = [
    *)
   "rencontre", "Incognito" ;
 
-  (* j+28 Orona emmène Simmera au Temple   
+  (* j+28 Orona emmène Simmera au Temple
+   *      ==============================  
    *   
    *      Ville de Hayako 
    *      Simmera, Orona
