@@ -315,20 +315,28 @@ let all = [
    *      Ville de Hayako 
    *      Simmera, Orona
    *)  
-  "escalade", "Douze Cent Marches" ;
+  "escalade", "Douze cent marches" ;
 
-  (* j+28 Ildaric explique à Simmera les Suidaster. 
+  (* j+28 Ildaric vole le corps de Simmera 
+   *      ================================
    *
    *      Temple de Hayako
    *      Simmera, Orona, Ildaric, Hayako, Staniel 
    *)
-  "possession", "Cinq immortels" ;
+  "possession", "Dernières volontés" ;
   
+  (* j+28 Ildaric et Simmera passent au Banquet
+   * 
+   *      Banquet de Mygaën
+   *      Simmera, Orona
+   *)
+  "banquet", "Cohabitation" ;   
+
   (* j+28 Nathan tue Julie. Snif.
    *      =======================
    * 
    *      Nymett
-   *      Nathan, Julie 
+   *      Nathan, Julie
    *)
   "nathan-vs-thanadir", "Nathan Tiresta" ;
 
@@ -348,5 +356,3 @@ let all = [
   "the-end", "Adir de Than" ; 
 
 ]
-
-
