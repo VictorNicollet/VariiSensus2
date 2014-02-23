@@ -326,6 +326,7 @@ let all = [
   "possession", "Dernières volontés" ;
   
   (* j+28 Ildaric et Simmera passent au Banquet
+   *      =====================================
    * 
    *      Banquet de Mygaën
    *      Simmera, Orona
