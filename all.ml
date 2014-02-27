@@ -176,10 +176,11 @@ let all = [
    *)
   "triangle", "Mensonges" ;
           
-  (* j+10 Giselle rencontre Charles et Eusèbe. 
+  (* j+10 Giselle rencontre Charles
+   *      =========================
    * 
    *      Hôpital impérial, Nagovie
-   *      Sébastien, La Gorgone, Giselle, Charles, Eusèbe
+   *      Giselle, Charles, Boris
    *)
   "romance", "Charles Athello" ;
   
