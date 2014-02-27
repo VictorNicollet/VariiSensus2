@@ -280,13 +280,21 @@ let all = [
    *)
   "bibliotheque", "Bibliothèque" ;
 
-  (* j+25 Julie invoque une Kharon, Simmera retrouve Giselle. 
+  (* j+25 Julie invoque une Kharon 
+   *      ========================
    *
    *      Dernier Temple
-   *      Simmera, Julie, Giselle, Charles 
+   *      Simmera, Julie
    *)
   "kirons", "Démons de Than" ;
 
+  (* j+25 Simmera retrouve Giselle
+   * 
+   *      Dernier Temple
+   *      Simmera, Julie, Odessa, Giselle, Charles
+   *)
+  "survol", "Sœur Odessa" ; 
+  
   (* j+27 Ildaric et Hayako parlent de l'invasion. 
    *      ========================================
    *
@@ -295,13 +303,6 @@ let all = [
    *)
   "rituel", "Ildaric Kaldara" ;
  
-  (* j+27 Simmera arrive à Hayako. 
-   *      
-   *      Aéronef
-   *      Simmera, Giselle
-   *)
-  "survol", "Vol de nuit" ;
-  
   (* j+28 Orona vient sauver Simmera 
    *      ==========================
    *   
