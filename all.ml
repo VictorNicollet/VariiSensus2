@@ -289,11 +289,20 @@ let all = [
   "kirons", "Démons de Than" ;
 
   (* j+25 Simmera retrouve Giselle
-   * 
+   *      ======================== 
+   *
    *      Dernier Temple
    *      Simmera, Julie, Odessa, Giselle, Charles
    *)
-  "survol", "Sœur Odessa" ; 
+  "survol", "Service militaire" ; 
+  
+  (* j+26 Simmera et Giselle parlent
+   *      ==========================
+   * 
+   *      Aube sur Nagovie
+   *      Simmera, Giselle
+   *)
+  "femmes", "Aube-sur-Nagovie" ;
   
   (* j+27 Ildaric et Hayako parlent de l'invasion. 
    *      ========================================
