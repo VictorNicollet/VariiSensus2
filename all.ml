@@ -199,7 +199,15 @@ let all = [
    *      Carnaval, Nathan, Hadrien 
    *) 
   "trahison", "Masques" ;
-
+  
+  (* j+13 Julie prend un bain. 
+   *      ====================
+   * 
+   *      Dernier Temple
+   *      Simmera, Julie
+   *)
+  "ablution", "Blessures" ;
+  
   (* j+13 Julie emmène Simmera à Nymett. 
    *      ==============================
    * 
