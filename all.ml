@@ -216,6 +216,14 @@ let all = [
    *)
   "exorcisme", "Exorcisme" ;
   
+  (* j+13 Julie et Simmera prennent un petit-déj.
+   *      =======================================
+   * 
+   *      Hôtel des Luxion Kyanema, Nymett
+   *      Kyanema, Simmera, Julie
+   *)
+  "petit-dejeuner", "Petit-Déjeuner" ;
+  
   (* j+13 Les Suidinns attaquent ! 
    *      ========================
    *    
