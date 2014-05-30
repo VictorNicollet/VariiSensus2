@@ -359,7 +359,15 @@ let all = [
    *      Simmera, Orona
    *)
   "banquet", "Cohabitation" ;   
-
+  
+  (* j+28 Nathan négocie un poste.
+   *      ========================
+   *
+   *	  Bains de Nymett
+   *      Nathan, Saïar, Henri
+   *)   
+  "thermes", "Cure Thermale" ;
+   
   (* j+28 Nathan tue Julie. Snif.
    *      =======================
    * 
