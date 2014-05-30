@@ -328,6 +328,14 @@ let all = [
    *)
   "rituel", "Ildaric Kaldara" ;
  
+  (* j+28 Nathan négocie un poste.
+   *      ========================
+   *
+   *	  Bains de Nymett
+   *      Nathan, Saïar, Henri
+   *)   
+  "thermes", "Cure Thermale" ;
+   
   (* j+28 Orona vient sauver Simmera 
    *      ==========================
    *   
@@ -360,14 +368,6 @@ let all = [
    *)
   "banquet", "Cohabitation" ;   
   
-  (* j+28 Nathan négocie un poste.
-   *      ========================
-   *
-   *	  Bains de Nymett
-   *      Nathan, Saïar, Henri
-   *)   
-  "thermes", "Cure Thermale" ;
-   
   (* j+28 Nathan tue Julie. Snif.
    *      =======================
    * 
