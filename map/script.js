@@ -41,12 +41,12 @@ function tesselateCircle(x,y,radius,rand) {
 	return points;
 }
 
-function subTesselate(array,rand) {
+function subTesselate(face,array,rand) {
 
 	var out = [];
 	function recurse(depth, prev, next) {
 		
-		var d = rand.value(die(8));
+		var d = rand.value(die(face));
 		rand = rand.next();
 		
 		if (depth > d) return;
@@ -126,7 +126,7 @@ function drawClosedBezier(points)
 
 var svg = [
 	'<svg width="1200px" height="700px" viewBox="0 0 1200 700" xmlns="http://www.w3.org/2000/svg" version="1.1">',
-	drawClosedBezier(subTesselate(tesselateCircle(600,350,300,new Random(0)), new Random(0))),
+	drawClosedBezier(subTesselate(2, tesselateCircle(600,350,300,new Random(1)), new Random(1))),
 	'</svg>'
 ].join('');
 
