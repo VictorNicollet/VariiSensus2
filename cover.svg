@@ -153,7 +153,7 @@
        x2="794.42133"
        y2="50.891403"
        gradientUnits="userSpaceOnUse"
-       gradientTransform="translate(-7.5980005,0.07081404)" />
+       gradientTransform="translate(-55.237374,-0.28416533)" />
     <linearGradient
        inkscape:collect="always"
        xlink:href="#linearGradient4471"
@@ -193,7 +193,7 @@
        y1="23.348377"
        x2="776.11792"
        y2="125.27753"
-       gradientTransform="translate(-7.5980005,0.07081404)" />
+       gradientTransform="translate(-55.237374,-0.28416533)" />
     <linearGradient
        inkscape:collect="always"
        xlink:href="#linearGradient4471"
@@ -203,7 +203,7 @@
        y1="23.348377"
        x2="776.11792"
        y2="125.27753"
-       gradientTransform="translate(-7.5980005,0.07081404)" />
+       gradientTransform="translate(-55.237374,-0.28416533)" />
     <linearGradient
        inkscape:collect="always"
        xlink:href="#linearGradient4471"
@@ -213,7 +213,7 @@
        y1="23.348377"
        x2="776.11792"
        y2="125.27753"
-       gradientTransform="translate(-7.5980005,0.07081404)" />
+       gradientTransform="translate(-55.237374,-0.28416533)" />
   </defs>
   <sodipodi:namedview
      id="base"
@@ -224,7 +224,7 @@
      inkscape:pageshadow="2"
      inkscape:zoom="0.62342342"
      inkscape:cx="574.30241"
-     inkscape:cy="386.60102"
+     inkscape:cy="413.55464"
      inkscape:document-units="px"
      inkscape:current-layer="layer1"
      showgrid="false"
@@ -28993,20 +28993,20 @@ f//Z
          id="path3589" />
     </g>
     <flowRoot
-       transform="matrix(0.00821738,-0.88168475,0.88168475,0.00821738,434.41705,1540.7815)"
-       style="font-size:32px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;text-align:start;line-height:125%;letter-spacing:0px;word-spacing:0px;text-anchor:start;fill:url(#linearGradient4487);fill-opacity:1;stroke:#000000;font-family:Bell MT;-inkscape-font-specification:Bell MT Bold;stroke-opacity:0.32941177"
+       transform="matrix(0.00821738,-0.88168475,0.88168475,0.00821738,435.12151,1498.7815)"
+       style="font-size:32px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;text-align:start;line-height:125%;letter-spacing:0px;word-spacing:0px;text-anchor:start;fill:url(#linearGradient4487);fill-opacity:1;stroke:#000000;stroke-opacity:0.32941176;font-family:Bell MT;-inkscape-font-specification:Bell MT Bold"
        id="flowRoot3611"
        xml:space="preserve"><flowRegion
          id="flowRegion3613"
          style="fill:url(#linearGradient4497);fill-opacity:1"><rect
-           style="font-size:32px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;text-align:start;text-anchor:start;fill:url(#linearGradient4495);fill-opacity:1;font-family:Bell MT;-inkscape-font-specification:Bell MT Bold;stroke:#000000;stroke-opacity:0.32941177"
+           style="font-size:32px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;text-align:start;text-anchor:start;fill:url(#linearGradient4495);fill-opacity:1;stroke:#000000;stroke-opacity:0.32941176;font-family:Bell MT;-inkscape-font-specification:Bell MT Bold"
            y="59.546921"
            x="602.74323"
            height="54.066666"
            width="344.42468"
            id="rect3615" /></flowRegion><flowPara
          id="flowPara3617"
-         style="text-align:start;text-anchor:start;fill:url(#linearGradient4499);fill-opacity:1;stroke:#000000;stroke-opacity:0.32941177">La Reine des Voleurs</flowPara></flowRoot>    <flowRoot
+         style="text-align:start;text-anchor:start;fill:url(#linearGradient4499);fill-opacity:1;stroke:#000000;stroke-opacity:0.32941176">La Reine des Voleurs</flowPara></flowRoot>    <flowRoot
        xml:space="preserve"
        id="flowRoot3629"
        style="font-size:32px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;text-align:center;line-height:125%;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#4d4d4d;fill-opacity:1;stroke:none;font-family:Bell MT;-inkscape-font-specification:Bell MT Bold"
@@ -29020,7 +29020,7 @@ f//Z
            style="font-size:32px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;text-align:center;text-anchor:middle;fill:#4d4d4d;font-family:Bell MT;-inkscape-font-specification:Bell MT Bold" /></flowRegion><flowPara
          id="flowPara3635">Victor Nicollet</flowPara></flowRoot>    <path
        inkscape:connector-curvature="0"
-       d="m 507.54707,480.9494 c -3.62139,-0.21905 -5.0487,3.62185 -2.74351,8.56135 2.30523,4.93829 5.68439,8.95291 7.79227,13.17035 0,0 0.54942,-2.85401 -0.10993,-5.15887 -0.65812,-2.3048 -6.14636,-9.76767 -6.91436,-12.51193 -0.768,-2.74388 1.97548,-4.0609 1.97548,-4.0609 z m -2.49501,36.04562 c 3.62143,0.21948 5.04875,-3.62192 2.74358,-8.56081 -2.304,-4.93892 -5.68434,-8.95358 -7.79231,-13.17046 0,0 -0.5494,2.85349 0.10992,5.15849 0.65812,2.30481 6.14634,9.76805 6.91434,12.51193 0.76801,2.74376 -1.97552,4.06085 -1.97552,4.06085 z m 2.7871,2.80694 c 4.78521,-1.26197 6.18883,-6.42335 5.39839,-10.78329 -0.6319,-3.4925 -2.61239,-6.87101 -4.61042,-9.87441 l 0.01,-10e-4 c -0.21724,-0.36143 -0.4396,-0.72487 -0.64937,-1.07315 -2.70854,-4.42425 -5.4883,-7.90226 -5.70808,-11.9631 -0.2747,-4.20684 2.19661,-7.14091 5.38213,-6.48777 3.67136,0.78046 4.16712,3.69069 3.75006,5.71265 -0.19354,-0.69321 -0.80423,-1.21265 -1.55847,-1.21265 -0.90909,-10e-6 -1.64708,0.73748 -1.64698,1.64638 3e-5,0.9092 0.73804,1.64634 1.64674,1.64674 0.20232,-4e-5 0.55568,-0.10101 0.54822,-0.0976 0.32964,-0.0547 1.30865,-0.5283 1.86563,-2.41459 0.38337,-1.9654 -0.50701,-5.83257 -4.44432,-6.74966 -0.96031,-0.22826 -2.21656,-0.12535 -3.16063,0.1229 -4.78646,1.26248 -6.18881,6.42434 -5.3984,10.78328 0.63065,3.49351 2.61117,6.87204 4.60918,9.87493 l -0.01,10e-4 c 0.21853,0.36189 0.4396,0.72489 0.6506,1.07317 2.70731,4.42474 5.48708,7.90224 5.70679,11.96314 0.27475,4.20677 -2.19654,7.14137 -5.38089,6.48779 -3.53151,-0.74923 -4.12463,-3.46932 -3.79374,-5.47554 0.2523,0.58288 0.83174,0.99257 1.50727,0.99261 0.90914,-3e-5 1.64589,-0.73703 1.64586,-1.64624 5e-5,-0.90889 -0.73672,-1.6459 -1.64586,-1.64585 -0.16738,0 -0.3209,0.0473 -0.47325,0.0955 0.007,-0.005 0.0126,-0.0123 0.0184,-0.0151 -0.0411,0.007 -0.0911,0.0207 -0.14858,0.0413 -0.0299,0.0121 -0.0538,0.0242 -0.0811,0.0382 -0.43209,0.18983 -1.17513,0.77665 -1.6359,2.33509 -0.38212,1.96543 0.507,5.83257 4.44433,6.75017 0.96155,0.22776 2.21655,0.12536 3.16187,-0.1239"
+       d="m 507.42213,480.9494 c -3.62139,-0.21905 -5.0487,3.62185 -2.74351,8.56135 2.30523,4.93829 5.68439,8.95291 7.79227,13.17035 0,0 0.54942,-2.85401 -0.10993,-5.15887 -0.65812,-2.3048 -6.14636,-9.76767 -6.91436,-12.51193 -0.768,-2.74388 1.97548,-4.0609 1.97548,-4.0609 z m -2.49501,36.04562 c 3.62143,0.21948 5.04875,-3.62192 2.74358,-8.56081 -2.304,-4.93892 -5.68434,-8.95358 -7.79231,-13.17046 0,0 -0.5494,2.85349 0.10992,5.15849 0.65812,2.30481 6.14634,9.76805 6.91434,12.51193 0.76801,2.74376 -1.97552,4.06085 -1.97552,4.06085 z m 2.7871,2.80694 c 4.78521,-1.26197 6.18883,-6.42335 5.39839,-10.78329 -0.6319,-3.4925 -2.61239,-6.87101 -4.61042,-9.87441 l 0.01,-10e-4 c -0.21724,-0.36143 -0.4396,-0.72487 -0.64937,-1.07315 -2.70854,-4.42425 -5.4883,-7.90226 -5.70808,-11.9631 -0.2747,-4.20684 2.19661,-7.14091 5.38213,-6.48777 3.67136,0.78046 4.16712,3.69069 3.75006,5.71265 -0.19354,-0.69321 -0.80423,-1.21265 -1.55847,-1.21265 -0.90909,-10e-6 -1.64708,0.73748 -1.64698,1.64638 3e-5,0.9092 0.73804,1.64634 1.64674,1.64674 0.20232,-4e-5 0.55568,-0.10101 0.54822,-0.0976 0.32964,-0.0547 1.30865,-0.5283 1.86563,-2.41459 0.38337,-1.9654 -0.50701,-5.83257 -4.44432,-6.74966 -0.96031,-0.22826 -2.21656,-0.12535 -3.16063,0.1229 -4.78646,1.26248 -6.18881,6.42434 -5.3984,10.78328 0.63065,3.49351 2.61117,6.87204 4.60918,9.87493 l -0.01,10e-4 c 0.21853,0.36189 0.4396,0.72489 0.6506,1.07317 2.70731,4.42474 5.48708,7.90224 5.70679,11.96314 0.27475,4.20677 -2.19654,7.14137 -5.38089,6.48779 -3.53151,-0.74923 -4.12463,-3.46932 -3.79374,-5.47554 0.2523,0.58288 0.83174,0.99257 1.50727,0.99261 0.90914,-3e-5 1.64589,-0.73703 1.64586,-1.64624 5e-5,-0.90889 -0.73672,-1.6459 -1.64586,-1.64585 -0.16738,0 -0.3209,0.0473 -0.47325,0.0955 0.007,-0.005 0.0126,-0.0123 0.0184,-0.0151 -0.0411,0.007 -0.0911,0.0207 -0.14858,0.0413 -0.0299,0.0121 -0.0538,0.0242 -0.0811,0.0382 -0.43209,0.18983 -1.17513,0.77665 -1.6359,2.33509 -0.38212,1.96543 0.507,5.83257 4.44433,6.75017 0.96155,0.22776 2.21655,0.12536 3.16187,-0.1239"
        style="fill:#808080;fill-opacity:1;fill-rule:nonzero;stroke:none"
        id="path692" />
     <g
@@ -29104,5 +29104,17 @@ f//Z
          style="font-size:18px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:justify;text-anchor:start;font-family:Bell MT;-inkscape-font-specification:Bell MT"
          id="flowPara4631" /><flowPara
          style="font-size:18px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:justify;text-anchor:start;font-family:Bell MT;-inkscape-font-specification:Bell MT"
-         id="flowPara4643">Mais Giselle et Simmera ont attiré sur elles l'attention de la Reine des Voleurs, une femme d'affaires au visage masqué qui dirige depuis son palais souterrain tous les criminels de Nagovie et qui ne reculera devant rien pour tirer profit de ces éléments perturbateurs.</flowPara></flowRoot>  </g>
+         id="flowPara4643">Mais Giselle et Simmera ont attiré sur elles l'attention de la Reine des Voleurs, une femme d'affaires au visage masqué qui dirige depuis son palais souterrain tous les criminels de Nagovie et qui ne reculera devant rien pour tirer profit de ces éléments perturbateurs.</flowPara></flowRoot>    <flowRoot
+       transform="matrix(0.00821738,-0.88168475,0.88168475,0.00821738,432.05581,1809.9365)"
+       style="font-size:32px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;text-align:end;line-height:125%;letter-spacing:0px;word-spacing:0px;text-anchor:end;fill:#666666;fill-opacity:1;stroke:none;font-family:Bell MT;-inkscape-font-specification:Bell MT Bold"
+       id="flowRoot4655"
+       xml:space="preserve"><flowRegion
+         id="flowRegion4657"><rect
+           style="font-size:32px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;text-align:end;text-anchor:end;fill:#666666;font-family:Bell MT;-inkscape-font-specification:Bell MT Bold"
+           y="59.546921"
+           x="602.74323"
+           height="54.066666"
+           width="344.42468"
+           id="rect4659" /></flowRegion><flowPara
+         id="flowPara4661">II.</flowPara></flowRoot>  </g>
 </svg>
