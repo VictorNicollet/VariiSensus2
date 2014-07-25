@@ -12,8 +12,8 @@ let head = "\\documentclass[10pt,twocolumn]{article}
 \\begin{document}
 "
 
-(*
-let finalhead = "\\documentclass[10pt,openleft,twoside]{book}
+
+let finalhead = "\\documentclass[9pt,openleft,twoside]{extbook}
 
 \\usepackage[papersize={5in,8in},margin={0.6in,0.75in}]{geometry}
 
@@ -70,12 +70,12 @@ let finalhead = "\\documentclass[10pt,openleft,twoside]{book}
   \\verb+ +
 
   \\vfill
-  \\huge{Le Culte de l'Archange}\\\\
+  \\huge{La Reine des Voleurs}\\\\
   \\large{Victor Nicollet}
 
   \\vfill
 
-  {\\small à Alix, pour ta patience}
+  {\\small à Théodore, pour ton sourire}
 
   \\vfill
 
@@ -86,7 +86,7 @@ let finalhead = "\\documentclass[10pt,openleft,twoside]{book}
 \\thispagestyle{empty}
 
 \\begin{center}
-\\includegraphics[width=3.9in]{map-left.eps}
+\\includegraphics[width=3.9in]{map-ponant.eps}
 \\end{center}
 
 \\clearpage
@@ -94,10 +94,27 @@ let finalhead = "\\documentclass[10pt,openleft,twoside]{book}
 \\thispagestyle{empty}
 
 \\begin{center}
-\\includegraphics[width=3.9in]{map-right.eps}
+\\includegraphics[width=3.9in]{map-centre.eps}
+\\end{center}
+
+\\clearpage
+
+\\thispagestyle{empty}
+
+\\begin{center}
+\\includegraphics[width=3.9in]{map-levant.eps}
+\\end{center}
+
+\\clearpage
+
+\\thispagestyle{empty}
+
+\\begin{center}
+\\includegraphics[width=3.9in]{map-abyssales.eps}
 \\end{center}
 "
 
+(*
 let fin = "
 \\cleardoublepage
 \\thispagestyle{empty}
@@ -124,43 +141,12 @@ Victor Nicollet
 
 \\end{center}
 \\end{document}\n"
-*)
-
-let finalhead = "\\documentclass[10pt,oneside,openany]{book}
-
-\\usepackage[papersize={5in,8in},margin={0.6in,0.75in}]{geometry}
-
-\\usepackage[utf8]{inputenc}
-
-\\usepackage{titlesec}
-\\usepackage{color}
-\\definecolor{gray}{rgb}{0.5,0.5,0.5}
-\\titleformat{\\chapter}[hang]{\\LARGE\\bfseries}{\\textcolor{gray}{\\thechapter\\ · }}{0pt}{\\LARGE\\bfseries\\sc}
-\\titlespacing{\\chapter}{0pt}{-30pt}{20pt}
-
-\\usepackage[frenchb]{babel}
-
-\\usepackage{lmodern}
-\\usepackage[T1]{fontenc}
-
-\\author{Victor Nicollet}
-
-\\usepackage{setspace}
-\\onehalfspace
-
-\\usepackage{changepage}
-
-\\setlength{\\parindent}{0in}
-\\setlength{\\parskip}{0.4cm}
-
-\\begin{document}
-
-\\sloppy"
+  *)
 
 let fin = "\\end{document}\n"
 
 
-let final = false
+let final = true
 
 class toLatex = object
 
