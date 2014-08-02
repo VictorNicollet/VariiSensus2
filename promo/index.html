@@ -1,0 +1,142 @@
+<!DOCTYPE html>
+<html xmlns:fb="http://ogp.me/ns/fb#">
+<head>
+  <title>La reine des voleurs - Roman</title>
+  <link rel="stylesheet" type="text/css" 
+	href="/la-reine-des-voleurs/style.css"/>
+  <meta property="fb:admins" content="517629600"/>
+</head>
+<body>
+  <div class="container">
+    <h1 id="title">La reine des voleurs</h1>
+    <div id="subtitle">&nbsp;</div>
+  </div>
+  <div class="container">
+    <img id="cover" src="/la-reine-des-voleurs/cover.png" style="margin-bottom:40px"/>
+    <div class="by-cover">
+      <p>
+	L'histoire reprend là où <a href="/le-culte-de-l-archange" style="text-decoration:none">Le
+	Culte de l'Archange</a> s'est arrêté.
+      </p>
+      <p>
+	Aux commandes du Tyran Boréal, Giselle se prépare à prendre de
+	force le contrôle de la Maison Altarane pour libérer son île
+	natale des flottes impériales.
+      </p>
+      <p>
+	Pendant ce temps, Simmera est en quête d'un mentor pour lui
+	enseigner l'usage du Varii Sensus, ce pouvoir mystérieux qui
+	pourra peut-être la protéger de Nathan Tiresta et Staniel
+	Suidaster.
+      </p>
+      <p>
+	Mais Giselle et Simmera ont attiré sur elles l'attention de la
+	Reine des Voleurs, une femme d'affaires au visage masqué qui
+	dirige depuis son palais souterrain tous les criminels de
+	Nagovie et qui ne reculera devant rien pour tirer profit de
+	ces éléments perturbateurs.
+      </p>
+      <!--
+      <div class="action-center">
+	<a class="call-to-inaction"
+	   href="/le-culte-de-l-archange/LeCulteDeLArchange-extrait.pdf"
+	   onclick="_gaq.push(['_trackEvent', 'conversion', 'get-preview']);">
+	  Lire un extrait
+	</a>
+	<a class="call-to-action"
+	   href="http://www.amazon.fr/dp/1491298758"
+	   onclick="_gaq.push(['_trackEvent', 'conversion', 'go-to-amazon']);">
+	  Acheter sur Amazon.fr
+	</a>
+      </div>
+      <p>
+	Avec <strong>Le Culte de l'Archange</strong>, j'ai voulu
+	commencer une nouvelle saga&nbsp;: celle du Varii Sensus, un
+	pouvoir mystérieux et absolu capable de transformer des mondes
+	entiers, et qui suscite bien des convoitises. Le deuxième
+	tome, <strong>La reine des voleurs</strong>, est en
+	chantier en ce moment même.
+      </p>
+      <p>
+	Pour ce livre, j'ai voulu un style simple et direct, pour
+	explorer l'univers à travers les yeux innocents de mes deux
+	protagonistes, pour donner plus de poids aux surprises, aux
+	secrets et aux trahisons. J'espère que vous prendrez beaucoup
+	de plaisir à le lire&nbsp;!
+      </p>
+    </div>
+    -->
+  </div>
+
+<!--
+  <hr/>
+
+  <div class="container">    
+    <div class="like">
+      <fb:like-box href="https://www.facebook.com/LeCulteDeLArchange" width="292" show_faces="true" stream="false" show_border="true" header="false"></fb:like-box>
+    </div>
+    <div class="comments">
+      <fb:comments href="http://nicollet.net/le-culte-de-l-archange" width="470" num_posts="20"></fb:comments>
+    </div>
+  </div>
+-->
+  <script type="text/javascript" 
+	  src="http://code.jquery.com/jquery-1.10.1.min.js"></script>
+  <script type="text/javascript">
+$(function(){
+  var subtitles = [
+    "Comme le premier tome, mais en mieux",
+    "La pègre est une monarchie",
+    "Le polythéisme ressemble à un asile de fous",
+    "De la Fantasy sans personne pour sauver le monde",
+    "Dieu n'est pas mort, mais il est psychotique",
+    "Nos demi-dieux sont différents",
+    "Addictif. Mais entre nous, qui a besoin de dormir ?",
+    "Une dose de Dark Fantasy, pour vous mettre de bonne humeur",
+    "Achetez-le. Votre liseuse électronique vous dira merci.",
+  ];
+  $("#subtitle").text(subtitles[Math.floor(Math.random()*subtitles.length)]);
+});
+
+setTimeout(function(){
+  _gaq.push(['_trackEvent', 'page', 'stay-10-seconds']);
+},10000);
+
+var scrolled = false;
+$(window).scroll(function(){
+  if (scrolled) return;
+  scrolled = true;
+  _gaq.push(['_trackEvent', 'page', 'scroll']);
+});
+  </script>
+  <script type="text/javascript">
+    var _gaq = _gaq || [];
+    _gaq.push(['_setAccount', 'UA-34610151-1']);
+    _gaq.push(['_trackPageview']);
+    (function() {
+      var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
+      ga.src = 'http://www.google-analytics.com/ga.js';
+      var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
+    })();
+  </script>
+  <div id="fb-root"></div>
+  <script>
+window.fbAsyncInit = function() {
+  FB.Event.subscribe("comment.create",function(){
+    _gaq.push(['_trackEvent','page','comment']);
+  });
+  FB.Event.subscribe("edge.create",function(){
+    _gaq.push(['_trackEvent','page','create']);
+  });
+};
+
+(function(d, s, id) {
+var js, fjs = d.getElementsByTagName(s)[0];
+if (d.getElementById(id)) return;
+js = d.createElement(s); js.id = id;
+js.src = "//connect.facebook.net/en_US/all.js#xfbml=1&appId=149517945110087";
+fjs.parentNode.insertBefore(js, fjs);
+}(document, 'script', 'facebook-jssdk'));
+  </script>
+</body>
+</html>
