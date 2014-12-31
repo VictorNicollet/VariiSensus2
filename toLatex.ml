@@ -22,8 +22,8 @@ let finalhead = "\\documentclass[9pt,openleft,twoside]{extbook}
 \\addtolength{\\oddsidemargin}{0.6in}
 \\addtolength{\\evensidemargin}{0.6in}
 
-\\addtolength{\\oddsidemargin}{0.2in}
-\\addtolength{\\evensidemargin}{-0.2in}
+\\addtolength{\\oddsidemargin}{0.3in}
+\\addtolength{\\evensidemargin}{-0.3in}
 
 \\usepackage[utf8]{inputenc}
 
